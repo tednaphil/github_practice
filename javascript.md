@@ -12,3 +12,9 @@ var names = ["Tony", "Alicia", "Dawn", "Lafonda"]
 
 console.log(names[3])
 
+# git commands
+`git status`
+`git init`
+`git add <filename>`
+`git commit -m "Message"`
+`git log`
